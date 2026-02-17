@@ -15,6 +15,7 @@ Soil Monitoring and Controlling System is an IoT-based precision agriculture pla
 I primarily developed the React-based web admin panel used to monitor and manage farm activity. This included building dashboards to display real-time sensor data, integrating Firebase for cloud data handling, implementing control features for irrigation and alerts, and connecting external services such as Google Maps and Twilio for location tracking and notifications. I also collaborated on parts of the Flutter mobile application to ensure consistent data flow across the system.
 
 <br>
+<P></P>
 <table border="0">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="60" width="60" ></td>
