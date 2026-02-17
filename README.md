@@ -8,7 +8,11 @@
   </tr>
  </table><br>
  
-Soil monitoring and controlling system has been developed to adopt precision agriculture using Wireless Sensor Networks, which enables remote monitoring of soil fertility and other parameters namely soil moisture, NPK and temperature. This data is transmitted to the cloud and the corresponding values are displayed on a mobile application. The proposed system has the intelligence to recommend the quantity of water and fertilizer which improves the quality of the soil and ensures optimum growth of the crop. Web application is used to act as admin panel. The admin can monitor and control all the activities in the farm. In farming, farmers should inspect the work on a daily basis. From this project we hope to bring efficiency to the agricultural space, create a virtuous cycle that makes food production more accessible to consumers, saves farmers time and money, and reduces the environmental impact of farming by bringing sustainability to the process. This project include Arduino System, Mobile Application and Web Application. Used technologies Arduino, Flutter, react js, HTML, Firebase, Google map API, Twilio
+Project Overview
+Soil Monitoring and Controlling System is an IoT-based precision agriculture platform that uses wireless sensors to monitor soil moisture, temperature, and nutrient levels. Sensor data is transmitted to the cloud and visualised through mobile and web applications, enabling farmers to monitor conditions remotely and receive recommendations for water and fertiliser usage.
+
+My Contribution
+I primarily developed the React-based web admin panel used to monitor and manage farm activity. This included building dashboards to display real-time sensor data, integrating Firebase for cloud data handling, implementing control features for irrigation and alerts, and connecting external services such as Google Maps and Twilio for location tracking and notifications. I also collaborated on parts of the Flutter mobile application to ensure consistent data flow across the system.
 
 <br>
 <table border="0">
