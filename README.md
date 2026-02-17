@@ -8,10 +8,10 @@
   </tr>
  </table><br>
  
-Project Overview
+<h2>Project Overview </h2>
 Soil Monitoring and Controlling System is an IoT-based precision agriculture platform that uses wireless sensors to monitor soil moisture, temperature, and nutrient levels. Sensor data is transmitted to the cloud and visualised through mobile and web applications, enabling farmers to monitor conditions remotely and receive recommendations for water and fertiliser usage.
 
-My Contribution
+<h2> My Contribution </h2>
 I primarily developed the React-based web admin panel used to monitor and manage farm activity. This included building dashboards to display real-time sensor data, integrating Firebase for cloud data handling, implementing control features for irrigation and alerts, and connecting external services such as Google Maps and Twilio for location tracking and notifications. I also collaborated on parts of the Flutter mobile application to ensure consistent data flow across the system.
 
 <br>
